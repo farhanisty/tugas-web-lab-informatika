@@ -1,0 +1,15 @@
+{
+  "name": "farhannivta/tugas-3",
+  "autoload": {
+    "psr-4": {
+      "Farhannivta\\CrudSession\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "farhanisty",
+      "email": "farhannivtasija@gmail.com"
+    }
+  ],
+  "require": {}
+}
